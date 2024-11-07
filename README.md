@@ -32,4 +32,5 @@ We deployed the dashboard using GitHub where the code reads the data file and dy
 
 Collaborated with some claamates for this challenge
 
-Dashboard
+Website
+[Click me](https://nelellen.github.io/belly-button-challenge/)
