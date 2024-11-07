@@ -1,11 +1,11 @@
 # belly-button-challenge
 
-Background
-This challenge is aimed to build a user friendly interactive dashboard to explore the Belly Button Biodiversity dataset, which catalogs the microbes that colonize human navels.
+**Background**
+This challenge is aimed to build a user friendly interactive dashboard to explore the [Belly Button Dataset](https://robdunnlab.com/projects/belly-button-biodiversity/) , which catalogs the microbes that colonize human navels.
 
 The dataset reveals that a small handful of microbial species (also called operational taxonomic units, or OTUs, in the study) were present in more than 70% of people, while the rest were relatively rare.
 
-Description
+**Description**
 1 - Reading the data
 
 We used the D3 library to read samples.json in samples.json from the provided url.
@@ -32,5 +32,5 @@ We deployed the dashboard using GitHub where the code reads the data file and dy
 
 Collaborated with some claamates for this challenge
 
-Website
+**Website**
 [Click me](https://nelellen.github.io/belly-button-challenge/)
